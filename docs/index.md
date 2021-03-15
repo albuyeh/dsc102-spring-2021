@@ -1,4 +1,3 @@
-# DSC 102: Systems for Scalable Analytics
 
 **Instructor**: Rod Albuyeh
 
