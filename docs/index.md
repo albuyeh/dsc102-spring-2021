@@ -16,6 +16,12 @@ TAs:
 
 &nbsp;
 
+---
+* TOC
+{:toc}
+
+---
+
 # Overview
 
 This course covers the principles of computing systems and tools for 
