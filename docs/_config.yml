@@ -1,0 +1,6 @@
+safe: true
+title: "DSC 102: Spring 2021"
+source: .
+destination: _site
+url: "https://albuyeh.github.io"
+baseurl: "/dsc102-spring-2021"
