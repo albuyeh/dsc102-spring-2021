@@ -21,20 +21,6 @@ TAs:
 
 ---
 
-# Schedule
-
-|Week|Topic|
-|--|--|
-|1-4|[Basics of Computer Organization and Operating Systems]({{ "weeks/01-Introduction" | absolute_url }})|
-|4|[Basics of Cloud Computing]({{ "/weeks/02-Data" | absolute_url }})|
-|5-6|[Parallel and Scalable Data Processing: Parallelism Basics]({{ "/weeks/03-Android-Graphs" | absolute_url }})|
-|7|[Parallel and Scalable Data Processing: Scalable Data Access]({{ "/weeks/04-Graph-Features" | absolute_url }})|
-|8|[Parallel and Scalable Data Processing: Data Parallelism]({{ "/weeks/05-Baseline-Model" | absolute_url }})|
-|9|[Dataflow Systems]({{ "/weeks/06-Hindroid" | absolute_url }})|
-|10|[ML Data Sourcing]({{ "/weeks/07-Graph-Embeddings-I" | absolute_url }})|
-|10|[ML Model Building Systems]({{ "/weeks/08-Graph-Embeddings-II" | absolute_url }})|
-|10|[ML Model Building Systems]({{ "/weeks/09-Adversarial-ML" | absolute_url }})|
-
 # Overview
 
 This course covers the principles of computing systems and tools for 
@@ -157,3 +143,17 @@ final grade then is B+.
 Midterm Exam: Friday, 04/30, in class
 
 Cumulative Final Exam: Friday, 06/11, 11:30am-2:30pm
+
+# Schedule
+
+|Week|Topic|
+|--|--|
+|1-4|[Basics of Computer Organization and Operating Systems]
+|4|[Basics of Cloud Computing]
+|5-6|[Parallel and Scalable Data Processing: Parallelism Basics]
+|7|[Parallel and Scalable Data Processing: Scalable Data Access]
+|8|[Parallel and Scalable Data Processing: Data Parallelism]
+|9|[Dataflow Systems]
+|10|[ML Data Sourcing]
+|10|[ML Model Building Systems]
+|10|[ML Model Building Systems]
