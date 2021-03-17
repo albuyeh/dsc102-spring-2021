@@ -5,6 +5,8 @@ doodle: "/bd.png"
 permalink: /
 ---
 
+&nbsp;
+
 **Instructor**: Rod Albuyeh
 
 **Office Hours**: Mon 8:00-9:00am
