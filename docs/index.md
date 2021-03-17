@@ -163,7 +163,7 @@ Cumulative Final Exam: Friday, 06/11, 11:30am-2:30pm
 
 |Week|Topic|References|
 |--|--|--|
-|1-4|Basics of Computer Organization and Operating Systems| Basics of Computer Organization and Operating Systems 
+|1-4|Basics of Computer Organization and Operating Systems| Basics of Computer Organization and Operating Systems|
 Ch. 1, 2.1-2.3, 2.12, 4.1, and 5.1-5.5 of CompOrg Book; 
 Ch. 2, 4.1-4.2, 6, 7, 13, 14.1, 18.1, 21, 22,
 26, 36, 37, 39, and 40.1-40.2 of Comet Book|
