@@ -1,3 +1,9 @@
+---
+layout: page
+title: "DSC 102: Systems for Scalable Analytics"
+doodle: "/bd.png"
+permalink: /
+---
 
 **Instructor**: Rod Albuyeh
 
