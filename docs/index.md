@@ -163,15 +163,12 @@ Cumulative Final Exam: Friday, 06/11, 11:30am-2:30pm
 
 |Week|Topic|References|
 |--|--|--|
-|1-4|Basics of Computer Organization and Operating Systems|
-Ch. 1, 2.1-2.3, 2.12, 4.1, and 5.1-5.5 of CompOrg Book; 
-Ch. 2, 4.1-4.2, 6, 7, 13, 14.1, 18.1, 21, 22,
-26, 36, 37, 39, and 40.1-40.2 of Comet Book|
-|4|Basics of Cloud Computing||
-|5-6|Parallel and Scalable Data Processing: Parallelism Basics||
-|7|Parallel and Scalable Data Processing: Scalable Data Access||
-|8|Parallel and Scalable Data Processing: Data Parallelism||
-|9|Dataflow Systems||
-|10|ML Data Sourcing||
-|10|ML Model Building Systems||
-|10|ML Model Building Systems||
+|1-4|Basics of Computer Organization and Operating Systems|Ch. 1, 2.1-2.3, 2.12, 4.1, and 5.1-5.5 of CompOrg Book; Ch. 2, 4.1-4.2, 6, 7, 13, 14.1, 18.1, 21, 22, 26, 36, 37, 39, and 40.1-40.2 of Comet Book|
+|4|Basics of Cloud Computing|Test|
+|5-6|Parallel and Scalable Data Processing: Parallelism Basics|Test|
+|7|Parallel and Scalable Data Processing: Scalable Data Access|Test|
+|8|Parallel and Scalable Data Processing: Data Parallelism|Test|
+|9|Dataflow Systems|Test|
+|10|ML Data Sourcing|Test|
+|10|ML Model Building Systems|Test|
+|10|ML Model Building Systems|Test|
