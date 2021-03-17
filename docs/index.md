@@ -152,7 +152,7 @@ Midterm Exam: Friday, 04/30, in class
 
 Cumulative Final Exam: Friday, 06/11, 11:30am-2:30pm
 
-# Schedule
+# Provisional Schedule
 
 |Week|Topic|
 |--|--|
