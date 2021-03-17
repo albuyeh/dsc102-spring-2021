@@ -171,4 +171,4 @@ Cumulative Final Exam: Friday, 06/11, 11:30am-2:30pm
 |9|Dataflow Systems|Ch. 2.2 of MLSys Book|
 |10|ML Data Sourcing|Ch. 8.1, 8.3 of MLSys Book|
 |10|ML Model Building Systems|Ch. 8-8.4 of MLSys Book|
-|10|Review for Final| - |
+|11|Review for Final| - |
