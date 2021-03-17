@@ -145,9 +145,13 @@ will not be raised.
 | D | 50 | Next 5% (90-95) |
 | F | <50 | Lowest 5% |
 
+&nbsp;
+
 **Example**: Suppose the total score is 82 and the percentile is 33. 
 So, the relative grade is B-, while the absolute grade is B+. The 
 final grade then is B+.
+
+&nbsp;
 
 #### Exam Dates
 
