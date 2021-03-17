@@ -6,7 +6,7 @@ permalink: /
 ---
 &nbsp;
 
-*the above image via [hidden technical debt in machine learning systems](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf).
+*the above image via [this article](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf).
 
 &nbsp;
 
