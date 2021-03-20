@@ -172,3 +172,16 @@ Cumulative Final Exam: Friday, 06/11, 11:30am-2:30pm
 |10|ML Data Sourcing|Ch. 8.1, 8.3 of MLSys Book|
 |10|ML Model Building Systems|Ch. 8-8.4 of MLSys Book|
 |11|Review for Final| - |
+
+# Tentative Schedule for Programming Assignments
+
+|Date|Agenda|
+|--|--|
+|Mon, Apr 12|PA 1 released|
+|Mon, Apr 26|PA 1 due|
+|Fri, Apr 30|Midterm Exam|
+|Fri, May 7|PA 2 released|
+|Fri, May 21|PA 2 due|
+|Fri, May 21|PA 3 released|
+|Fri, June 4|PA 3 due|
+|Fri, June 11|Final Exam|
