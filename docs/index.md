@@ -22,7 +22,7 @@ permalink: /
 
 TAs:
 
-- First Last (flast [at] eng.ucsd.edu); Office Hours
+- Taruj Goyal (tgoyal [at] eng.ucsd.edu); Office Hours
 
 &nbsp;
 
