@@ -181,8 +181,8 @@ Cumulative Final Exam: Friday, 06/11, 11:30am-2:30pm
 |Date|Agenda|
 |--|--|
 |Fri, Apr 30|Midterm Exam|
-|Fri, May 7|PA 0 released|
-|Fri, May 21|PA 0 due|
-|Fri, May 21|PA 1 released|
-|Fri, June 4|PA 1 due|
+|Fri, Apr 30|PA 0 released|
+|Fri, May 14|PA 0 due|
+|Fri, May 14|PA 1 released|
+|Fri, May 28|PA 1 due|
 |Fri, June 11|Final Exam|
