@@ -20,7 +20,7 @@ permalink: /
 
 &nbsp;
 
-TAs:
+TA:
 
 - Taruj Goyal (tgoyal [at] eng.ucsd.edu); Office Hours
 
