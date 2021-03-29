@@ -192,7 +192,9 @@ Cumulative Final Exam: Friday, 06/11, 11:30am-2:30pm
 |Fri, May 28|PA 1 due|
 |Fri, June 11|Final Exam|
 
-# Async Learning
+&nbsp;
+
+#### Async Learning
 
 I understand that there are a number of students enrolled who are in 
 different timezones.  To accommodate, lecture videos will be released
