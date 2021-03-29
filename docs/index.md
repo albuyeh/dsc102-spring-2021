@@ -73,7 +73,11 @@ reweighting of the other components.
 
 - There will be (many) surprise quizzes on random lecture dates to 
 help you retain the material. These will constitute your participation
-score.
+score.  **Note**: There will be a lag on quiz return deadlines to 
+accommodate students in different time zones.  The quiz will be released
+at lecture time (announced in the lecture video) and due 48 hours 
+following. 
+ 
 
 - The discussion sections will be used by the TAs to prepare you for the 
 programming assignments and help you gain experience with cloud components.
@@ -83,6 +87,7 @@ both during class and outside of class. If the guest lecture occurs during
 class, the content discussed is fair game for the final. If it occurs
 outside of class, the content offers a small opportunity for extra credit
 on a midterm or final.  
+
 
 #### Prerequisites
 
@@ -186,3 +191,10 @@ Cumulative Final Exam: Friday, 06/11, 11:30am-2:30pm
 |Fri, May 14|PA 1 released|
 |Fri, May 28|PA 1 due|
 |Fri, June 11|Final Exam|
+
+# Async Learning
+
+I understand that there are a number of students enrolled who are in 
+different timezones.  To accommodate, lecture videos will be released
+immediately following the live session, and any surprise quizzes will 
+have a 48 hour deadline.
