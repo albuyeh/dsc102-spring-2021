@@ -62,8 +62,8 @@ and cloud resources.
 - The class meets 3 times a week for 50-minute lectures. All lectures
 are mandatory.
 
-- 2 programming assignments. There are no late days for the 
-programming assignments; plan your work accordingly.
+- one programming assignment. There are no late days for the 
+programming assignment; plan your work accordingly.
 
 - This course will have one in-class midterm exam and one cumulative 
 final exam. If you miss an exam, you will get no credit for it unless 
@@ -80,7 +80,7 @@ following.
  
 
 - The discussion sections will be used by the TAs to prepare you for the 
-programming assignments and help you gain experience with cloud components.
+programming assignment and help you gain experience with cloud components.
 
 - We will have a number of guest lecturers from industry, with opportunities 
 both during class and outside of class. If the guest lecture occurs during
@@ -120,7 +120,7 @@ Arun Kumar, and Jun Yang (aka the "MLSys Book").
 
 Components
 - midterm exam: 30%
-- programming assignments: 15% + 10%
+- programming assignment: 25%
 - surprise quizzes: 5%
 - cumulative final: 40%
 
@@ -181,15 +181,13 @@ Cumulative Final Exam: Friday, 06/11, 11:30am-2:30pm
 
 &nbsp;
 
-#### Tentative Schedule for Programming Assignments
+#### Tentative Schedule for Programming Assignment
 
 |Date|Agenda|
 |--|--|
 |Fri, Apr 30|Midterm Exam|
-|Fri, Apr 30|PA 0 released|
-|Fri, May 14|PA 0 due|
-|Fri, May 14|PA 1 released|
-|Fri, May 28|PA 1 due|
+|Fri, Apr 30|PA released|
+|Fri, May 28|PA due|
 |Fri, June 11|Final Exam|
 
 &nbsp;
