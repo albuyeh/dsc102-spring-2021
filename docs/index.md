@@ -20,9 +20,10 @@ permalink: /
 
 &nbsp;
 
-TA:
+TAs:
 
-- Taruj Goyal (tgoyal [at] eng.ucsd.edu); Office Hours
+- Taruj Goyal (tgoyal [at] eng.ucsd.edu); Office Hours TBD
+- Pradyumna Sridhara (prsridha [at] ucsd.edu); Office Hours TBD
 
 &nbsp;
 
