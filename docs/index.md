@@ -22,8 +22,8 @@ permalink: /
 
 TAs:
 
-- Taruj Goyal (tgoyal [at] eng.ucsd.edu); Office Hours TBD
-- Pradyumna Sridhara (prsridha [at] ucsd.edu); Office Hours TBD
+- Taruj Goyal (tgoyal [at] eng.ucsd.edu); Office Hours Tu/Th 5:00-6:00pm
+- Pradyumna Sridhara (prsridha [at] ucsd.edu); Office Hours 5:00-6:00pm
 
 &nbsp;
 
