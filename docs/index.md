@@ -159,11 +159,19 @@ final grade then is B+.
 
 &nbsp;
 
-#### Exam Dates
+#### Exam Dates and Format
 
 Midterm Exam: Friday, 04/30, in class
 
 Cumulative Final Exam: Friday, 06/11, 11:30am-2:30pm
+
+I will give a 24 hour window during which students can complete 
+exams, as to not disadvantage students in other time zones. Exams
+will include open-ended questions which will require critical thinking,
+weighing pros and cons of different systems components. Exams are 
+open-Google, and open-note. There will be no proctoring technology. 
+The exams will be administered via Canvas. You will be able to go back and
+check your work as well. 
 
 # Provisional Schedule
 
