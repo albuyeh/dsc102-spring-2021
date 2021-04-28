@@ -12,7 +12,7 @@ permalink: /
 
 **Instructor**: Rod Albuyeh
 
-**Office Hours**: Mon 12:00-1:00pm
+**Office Hours**: Wed 12:00-1:00pm
 
 **Lectures**: M/W/F 11:00-11:50am; Remote
 
